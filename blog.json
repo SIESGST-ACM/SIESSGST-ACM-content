@@ -1,0 +1,10 @@
+[
+    {
+    "id": "event-1",
+    "title": "Hackathon Success 2024",
+    "date": "2024-02-28",
+    "author": "Tech Team",
+    "description": "A quick recap of our biggest event of the year.",
+    "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/siesgst-acm-content/main/images/hackathon.jpg"
+  }
+]
